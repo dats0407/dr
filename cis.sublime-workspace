@@ -1,0 +1,1319 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fin",
+				"findid"
+			],
+			[
+				"target",
+				"currentTarget"
+			],
+			[
+				"spl",
+				"split"
+			],
+			[
+				"ov",
+				"overflow-x"
+			],
+			[
+				"thum",
+				"thumbnailPicsArr〔variable〕"
+			],
+			[
+				"new",
+				"newData〔variable〕"
+			],
+			[
+				"find",
+				"findArr〔variable〕"
+			],
+			[
+				"_this",
+				"_this.setData"
+			],
+			[
+				"th",
+				"thumbnailPicsArr"
+			],
+			[
+				"get",
+				"getImageInfo"
+			],
+			[
+				"imgu",
+				"imgUrlArr"
+			],
+			[
+				"imgU",
+				"imgUrlArr〔variable〕"
+			],
+			[
+				"bind",
+				"bindtap"
+			],
+			[
+				"load",
+				"loadFindComment"
+			],
+			[
+				"show",
+				"showModal"
+			],
+			[
+				"need",
+				"needReloadFindId"
+			],
+			[
+				"nee",
+				"needReloadFindId"
+			],
+			[
+				"data",
+				"dataset"
+			],
+			[
+				"img",
+				"imgThumbArr〔variable〕"
+			],
+			[
+				"uplo",
+				"uploadFileOpt"
+			],
+			[
+				"im",
+				"imgUrlArr"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"marin",
+				"margin-bottom"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"fol",
+				"float"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"reg",
+				"regfrom"
+			],
+			[
+				"re",
+				"readnum"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"member",
+				"memberExist"
+			],
+			[
+				"res",
+				"resObj"
+			],
+			[
+				"mem",
+				"memberid"
+			],
+			[
+				"check",
+				"checkMemberExixt"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "pages/find/find.wxml",
+			"settings":
+			{
+				"buffer_size": 3202,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "pages/find/find.js",
+			"settings":
+			{
+				"buffer_size": 10501,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "pages/find/find.wxss",
+			"settings":
+			{
+				"buffer_size": 4736,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "pages/findedit/findedit.wxml",
+			"settings":
+			{
+				"buffer_size": 1241,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "pages/findedit/findedit.wxss",
+			"settings":
+			{
+				"buffer_size": 1738,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "pages/findedit/findedit.js",
+			"settings":
+			{
+				"buffer_size": 9923,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/Users/redick/htdocs/index.html",
+			"settings":
+			{
+				"buffer_size": 87,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/redick/htdocs/index.php",
+			"settings":
+			{
+				"buffer_size": 88,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/redick/htdocs/laravel/routes/web.php",
+			"settings":
+			{
+				"buffer_size": 513,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/redick/htdocs/thinkphp/public/index.php",
+			"settings":
+			{
+				"buffer_size": 726,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/redick/htdocs/thinkphp/public/.htaccess",
+			"settings":
+			{
+				"buffer_size": 216,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/redick/htdocs/thinkphp/application/config.php",
+			"settings":
+			{
+				"buffer_size": 7494,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/redick/htdocs/dream/admin/Conf/config.php",
+			"settings":
+			{
+				"buffer_size": 222,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/Users/redick/htdocs/dream/ex/Conf/config.php",
+			"settings":
+			{
+				"buffer_size": 221,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "utils/imgUtil.js",
+			"settings":
+			{
+				"buffer_size": 1176,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "//util.js"
+			}
+		},
+		{
+			"file": "utils/md5.js",
+			"settings":
+			{
+				"buffer_size": 8333,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "/*"
+			}
+		},
+		{
+			"contents": "{hash: \"FjivIiGZp2-QGu4RfnVkl-HCO2Uc\", key: \"wxapp_1509153731677_0_sCazvORk0bvckP4JOjB-QNOx1MoB…wZSI6ImNpcy1maW5kIiwiZGVhZGxpbmUiOjE1MDkxNTcyMTl9\", imageURL: \"wxapp_1509153731677_0_sCazvORk0bvckP4JOjB-QNOx1MoB…wZSI6ImNpcy1maW5kIiwiZGVhZGxpbmUiOjE1MDkxNTcyMTl9\"}\n\n\nhttp://oxvaybaf1.bkt.clouddn.com/wxapp_1508555793084_0_sCazvORk0bvckP4JOjB-QNOx1MoBNijn7kGM0ROO:JPyi_bfWc7nGQs41Vf2B4tsR4V4=:eyJzY29wZSI6ImNpcy1maW5kIiwiZGVhZGxpbmUiOjE1MDg1NTkzMDR9\n\n\n\ncontent:dfsd适得府君书打开方式进口还是大家看法时间不长详细老叟法师打发时间  \n\ncompanyId:1\n\noriginPicUrls:http://oxvaybaf1.bkt.clouddn.com/74582a3ca9d8b7b60;http://oxvaybaf1.bkt.clouddn.com/984c9b85bfbd65741;http://oxvaybaf1.bkt.clouddn.com/268463916a4bf9682;http://oxvaybaf1.bkt.clouddn.com/d26cd77f5ef00dc33\n\nthumbnailPicUrls:http://oxvaybaf1.bkt.clouddn.com/74582a3ca9d8b7b60;http://oxvaybaf1.bkt.clouddn.com/984c9b85bfbd65741;http://oxvaybaf1.bkt.clouddn.com/268463916a4bf9682;http://oxvaybaf1.bkt.clouddn.com/d26cd77f5ef00dc33\n\n\n\nhttp://oxvaybaf1.bkt.clouddn.com/ad1fc389f47d9c2c0\n",
+			"settings":
+			{
+				"buffer_size": 1003,
+				"line_ending": "Unix",
+				"name": "{hash: \"FjivIiGZp2-QGu4RfnVkl-HCO2Uc\", key: \"wxapp"
+			}
+		},
+		{
+			"file": "project.config.json",
+			"settings":
+			{
+				"buffer_size": 624,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "utils/qiniuUploader.js",
+			"settings":
+			{
+				"buffer_size": 3018,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "pages/find/find.json",
+			"settings":
+			{
+				"buffer_size": 67,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "css",
+		"selected_items":
+		[
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"ss",
+				"Set Syntax: HTML"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/redick/Documents/cis/ciscard",
+		"/Users/redick/Documents/cis/ciscard/common",
+		"/Users/redick/Documents/cis/ciscard/Datas",
+		"/Users/redick/Documents/cis/ciscard/pages",
+		"/Users/redick/Documents/cis/ciscard/pages/address",
+		"/Users/redick/Documents/cis/ciscard/pages/find",
+		"/Users/redick/Documents/cis/ciscard/pages/findedit",
+		"/Users/redick/Documents/cis/ciscard/pages/my",
+		"/Users/redick/Documents/cis/ciscard/pages/my/address",
+		"/Users/redick/Documents/cis/ciscard/pages/Play",
+		"/Users/redick/Documents/cis/ciscard/pages/products",
+		"/Users/redick/Documents/cis/ciscard/pages/trump",
+		"/Users/redick/Documents/cis/ciscard/pages/type",
+		"/Users/redick/Documents/cis/ciscard/pages/userAddr",
+		"/Users/redick/Documents/cis/ciscard/utils",
+		"/Users/redick/htdocs",
+		"/Users/redick/htdocs/dream",
+		"/Users/redick/htdocs/dream/admin",
+		"/Users/redick/htdocs/dream/admin/Conf",
+		"/Users/redick/htdocs/dream/ex",
+		"/Users/redick/htdocs/dream/ex/Conf",
+		"/Users/redick/htdocs/dream/ThinkPHP",
+		"/Users/redick/htdocs/dream/web"
+	],
+	"file_history":
+	[
+		"/Users/redick/htdocs/blog/config/database.php",
+		"/Users/redick/htdocs/blog/config/app.php",
+		"/Users/redick/htdocs/blog/.htaccess",
+		"/Users/redick/htdocs/blog/storage/framework/views/ca4d420e43ee053fb58e71723f342246b048bbf6.php",
+		"/Users/redick/htdocs/blog/routes/web.php",
+		"/Users/redick/Documents/cis/ciscard/config.js",
+		"/Users/redick/Documents/cis/ciscard/utils/request.js",
+		"/Users/redick/Documents/cis/ciscard/pages/findedit/findedit.js",
+		"/Users/redick/Documents/cis/ciscard/app.json",
+		"/Users/redick/Documents/cis/ciscard/utils/util.js",
+		"/Users/redick/Documents/cis/ciscard/pages/find/find.js",
+		"/Users/redick/Documents/cis/ciscard/project.config.json",
+		"/Users/redick/Documents/cis/ciscard/app.js",
+		"/Users/redick/Documents/cis/ciscard/pages/find/find.wxml",
+		"/Users/redick/Documents/cis/ciscard/pages/findedit/findedit.wxml",
+		"/Users/redick/Documents/cis/xiaojuexin/page/activity/pages/plan-sign-location/plan-sign-location.js",
+		"/Users/redick/Documents/cis/xiaojuexin/page/activity/pages/plan-sign-photo/plan-sign-photo.js",
+		"/Users/redick/Documents/cis/xiaojuexin/util/util.js",
+		"/Users/redick/Documents/cis/ciscard/pages/findedit/findedit.wxss",
+		"/Users/redick/Documents/cis/ciscard/utils/qiniuUploader.js",
+		"/Users/redick/Documents/cis/xiaojuexin/util/qiniuUploader.js",
+		"/Users/redick/Documents/cis/ciscard/pages/address/address.wxml",
+		"/Users/redick/Documents/cis/ciscard/pages/find/find.wxss",
+		"/Users/redick/Documents/cis/ciscard/pages/userAddr/userAddr.js",
+		"/Users/redick/Documents/cis/ciscard/Datas/qiniuUploader.js",
+		"/Users/redick/node/myapp/app.js",
+		"/Users/redick/node/myapp/views/slider.ejs",
+		"/Users/redick/node/myapp/views/footer.ejs",
+		"/Users/redick/Documents/cis/ciscard/pages/trump/trump.js",
+		"/Users/redick/Documents/cis/ciscard/pages/products/products.js",
+		"/Users/redick/Documents/cis/ciscard/pages/about/about.js",
+		"/Users/redick/Documents/cis/ciscard/pages/customercall/customercall.js",
+		"/Users/redick/Documents/cis/ciscard/pages/companyinc/companyinc.js",
+		"/Users/redick/Documents/cis/ciscard/pages/address/address.js",
+		"/Users/redick/Documents/cis/ciscard/pages/companyinc/companyinc.wxss",
+		"/Users/redick/Documents/cis/ciscard/pages/address/address.wxss",
+		"/Users/redick/Documents/cis/ciscard/pages/my/my.wxml",
+		"/Users/redick/Documents/cis/ciscard/pages/trump/trump.wxss",
+		"/Users/redick/Documents/cis/ciscard/pages/Play/play.wxml",
+		"/Users/redick/Documents/cis/ciscard/pages/Play/play.wxss",
+		"/Users/redick/Documents/cis/ciscard/pages/Play/play.js",
+		"/Users/redick/Documents/cis/ciscard/pages/trump/trump.wxml",
+		"/Users/redick/Documents/cis/ciscard/pages/my/address/address.wxml",
+		"/Users/redick/Documents/cis/ciscard/pages/my/address/address.js",
+		"/Users/redick/Documents/cis/ciscard/app.json.mine",
+		"/Users/redick/Desktop/123.html",
+		"/Users/redick/Documents/cis/ciscard/pages/my/companyinc/companyinc.wxss",
+		"/Users/redick/Documents/cis/ciscard/pages/my/companyinc/companyinc.wxml",
+		"/Users/redick/Documents/cis/ciscard/pages/companyinc/companyinc.wxml",
+		"/Users/redick/Documents/cis/ciscard/pages/my/my.js",
+		"/Users/redick/Documents/cis/ciscard/pages/index.json",
+		"/Users/redick/Documents/cis/svn.config.txt",
+		"/Users/redick/Documents/cis/ciscard/package.json",
+		"/Users/redick/python/hello.py",
+		"/Users/redick/Library/Application Support/Sublime Text 3/Packages/SublimeREPL/config/Python/Main.sublime-menu",
+		"/Users/redick/Library/Application Support/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
+		"/Users/redick/Downloads/demo/config.js",
+		"/Users/redick/dev/dy.read.xiniu.fun/src/controllers/member.js",
+		"/Users/redick/dev/dy.read.xiniu.fun/src/models/PostTag.js",
+		"/Users/redick/dev/dy.read.xiniu.fun/src/core/index.js",
+		"/Users/redick/dev/dy.read.xiniu.fun/src/controllers/PostFeed.js",
+		"/Users/redick/dev/dy.read.xiniu.fun/src/models/Post.js",
+		"/Users/redick/dev/dy.read.xiniu.fun/app/models/MemberLoginStat.js",
+		"/Users/redick/dev/xspider/src/config/router.js",
+		"/Users/redick/dev/xspider/src/config/database.js",
+		"/Users/redick/dev/xspider/src/models/Post.js",
+		"/Users/redick/dev/dy.read.xiniu.fun/src/controllers/Follow.js",
+		"/Users/redick/dev/dy.read.xiniu.fun/src/middleware/session/index.js",
+		"/Users/redick/dev/dy.read.xiniu.fun/src/controllers/Tag.js",
+		"/Users/redick/dev/dy.read.xiniu.fun/src/middleware/router/index.js",
+		"/Users/redick/dev/dy.read.xiniu.fun/src/config/router.js",
+		"/Users/redick/dev/dy.read.xiniu.fun/package.json",
+		"/Users/redick/dev/dy.read.xiniu.fun/src/index.js",
+		"/Users/redick/dev/dy.read.xiniu.fun/src/core/context.js",
+		"/Users/redick/dev/dy.read.xiniu.fun/src/config/database.js",
+		"/Users/redick/dev/dy.read.xiniu.fun/src/middleware/function/index.js",
+		"/Users/redick/dev/dy.read.xiniu.fun/src/controllers/home.js",
+		"/Users/redick/dev/dy.read.xiniu.fun/src/models/Session.js",
+		"/Users/redick/dev/dy.read.xiniu.fun/src/middleware/wenzhi/index.js",
+		"/Users/redick/dev/dy.read.xiniu.fun/src/middleware/mongo/index.js",
+		"/Users/redick/dev/dy.read.xiniu.fun/src/middleware/member/index.js",
+		"/Users/redick/dev/dy.read.xiniu.fun/src/controllers/PostFeed.b.js",
+		"/Users/redick/dev/docs/xiniu.sql"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/redick/htdocs/blog",
+			"/Users/redick/Documents/cis/ciscard",
+			"/Users/redick/Documents/cis/xiaojuexin",
+			"/Users/redick/Documents/cis/ciscard",
+			"/Users/redick/Documents/cis/ciscard/pages",
+			"/Users/redick/Documents/cis/ciscard",
+			"/Users/redick/dev/dy.read.xiniu.fun/node_modules/sequelize",
+			"/Users/redick/dev/dy.read.xiniu.fun/src",
+			"/Users/redick/dev/dy.read.xiniu.fun",
+			"/Users/redick/dev/dy.read.xiniu.fun/src/core",
+			"/Users/redick/dev/dy.read.xiniu.fun",
+			"/Users/redick/dev/dy.read.xiniu.fun/src/core",
+			"/Users/redick/dev/dy.read.xiniu.fun/src"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Laravel",
+			"welcome",
+			"loadListData",
+			"imgClassName",
+			"tofind",
+			"getImageInfo",
+			"needReload",
+			"showModal",
+			"needReload",
+			"drawCanvasAndUpload",
+			"图片",
+			"wx2bf033bdea4668a0",
+			"showMenu",
+			"show",
+			"toFind",
+			"getQiniuToken",
+			"uploadFileOpt",
+			"qiniuUploadTokenURL",
+			"uploadImage",
+			"alert",
+			"uploadImage",
+			"qiniuToken",
+			"upload",
+			"planId",
+			"      var fileName = \"wxapp_\" + new Date().getTime() + \"_\" + that.data.planId\nplanId",
+			"uploadImage",
+			"上传",
+			"kazhedui",
+			"toAbout",
+			"tocom",
+			"food",
+			"contMess",
+			"Mess1",
+			"Mess",
+			"line1",
+			"food",
+			"companyinc",
+			"TopPicBg",
+			"\\n\\.",
+			"\\n.",
+			"TopPicBg",
+			"trump",
+			"\\n\\.",
+			"appInstance",
+			"trump",
+			"trumpArr",
+			"app",
+			"favorite",
+			"首页",
+			"DATE",
+			"Sequelize",
+			"DataTypes",
+			"use",
+			"kone",
+			"kon'e",
+			"action",
+			"if",
+			"checkSession"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"eproduct",
+			".default .",
+			".food .",
+			"appInstance"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/Users/redick/Documents/cis/ciscard"
+		},
+		{
+			"path": "/Users/redick/node"
+		},
+		{
+			"path": "/Users/redick/Documents/cis"
+		},
+		{
+			"path": "/Users/redick/laravel"
+		},
+		{
+			"path": "/Users/redick/htdocs"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "pages/find/find.wxml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3202,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2307,
+								2307
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "pages/find/find.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10501,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1525,
+								1525
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 954.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "pages/find/find.wxss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4736,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2085,
+								2085
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2541.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "pages/findedit/findedit.wxml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1241,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								443,
+								455
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "pages/findedit/findedit.wxss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1738,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								661,
+								661
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 733.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "pages/findedit/findedit.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9923,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8491,
+								8491
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 6701.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/Users/redick/htdocs/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 87,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								87
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/Users/redick/htdocs/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 88,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								88,
+								88
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/Users/redick/htdocs/laravel/routes/web.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 513,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								507,
+								507
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/Users/redick/htdocs/thinkphp/public/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 726,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/Users/redick/htdocs/thinkphp/public/.htaccess",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 216,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								216,
+								216
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/Users/redick/htdocs/thinkphp/application/config.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7494,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1159,
+								1159
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "/Users/redick/htdocs/dream/admin/Conf/config.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 222,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								174,
+								174
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "/Users/redick/htdocs/dream/ex/Conf/config.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 221,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								221,
+								221
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "utils/imgUtil.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1176,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								147,
+								56
+							]
+						],
+						"settings":
+						{
+							"auto_name": "//util.js",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "utils/md5.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8333,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8333,
+								8333
+							]
+						],
+						"settings":
+						{
+							"auto_name": "/*",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 3222.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 18,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1003,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1002,
+								952
+							]
+						],
+						"settings":
+						{
+							"auto_name": "{hash: \"FjivIiGZp2-QGu4RfnVkl-HCO2Uc\", key: \"wxapp",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "project.config.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 624,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								225,
+								225
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "utils/qiniuUploader.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3018,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2530,
+								2530
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1383.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 19,
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"file": "pages/find/find.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 67,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								32,
+								32
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"dy.read.xiniu.fun/node_modules/fsevents/install.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 249.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
